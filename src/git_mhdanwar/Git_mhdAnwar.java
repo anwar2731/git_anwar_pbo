@@ -10,12 +10,13 @@ package git_mhdanwar;
  * @author ASUS TUF GAMING
  */
 public class Git_mhdAnwar {
-
-    /**
-     * @param args the command line arguments
-     */
+    public static int kurang(int a, int b){
+        return a-b;
+    }
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("filter kutang");
+        System.out.println("hasil 5-3 adalah "+kurang(5,3));
+        
     }
     
 }
