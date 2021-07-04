@@ -16,7 +16,7 @@ public class Git_mhdAnwar {
     public static void main(String[] args) {
         System.out.println("filter kutang");
         System.out.println("hasil 5-3 adalah "+kurang(5,3));
-        
+        System.out.println("ini di server");
     }
     
 }
