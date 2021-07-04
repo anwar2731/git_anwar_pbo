@@ -11,11 +11,13 @@ package git_mhdanwar;
  */
 public class Git_mhdAnwar {
 
-    /**
-     * @param args the command line arguments
-     */
+        public static int tambah(int a, int b){
+            return a+b;
+        }
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("anwar ada disini");
+        System.out.println("hasil penjumlahan 3 dan 4 adalah "+tambah(3,4));
     }
     
 }
