@@ -15,10 +15,7 @@ public class Git_mhdAnwar {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-            System.out.println("selamat datang");
-           System.out.println("hallo mhd anwar, selamat datang");
-           
+        // TODO code application logic here
     }
     
 }
