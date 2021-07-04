@@ -24,6 +24,7 @@ public class Git_mhdAnwar {
         
         System.out.println("anwar ada disini");
         System.out.println("hasil penjumlahan 3 dan 4 adalah "+tambah(3,4));
+        System.out.println("file ini di rubah du local");
     }
     
 }
